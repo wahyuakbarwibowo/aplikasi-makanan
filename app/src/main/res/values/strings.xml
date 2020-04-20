@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aplikasi Makanan</string>
+    <string name="bakso">Bakso</string>
+    <string name="tentangmakanan">TentangMakanan</string>
+</resources>
